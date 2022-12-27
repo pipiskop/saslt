@@ -1,0 +1,5 @@
+/Users/pipiskop/Projects/iliya10/iliya10/obj/Debug/net6.0/iliya10.csproj.AssemblyReference.cache
+/Users/pipiskop/Projects/iliya10/iliya10/obj/Debug/net6.0/iliya10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pipiskop/Projects/iliya10/iliya10/obj/Debug/net6.0/iliya10.AssemblyInfoInputs.cache
+/Users/pipiskop/Projects/iliya10/iliya10/obj/Debug/net6.0/iliya10.AssemblyInfo.cs
+/Users/pipiskop/Projects/iliya10/iliya10/obj/Debug/net6.0/iliya10.csproj.CoreCompileInputs.cache
